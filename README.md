@@ -1,5 +1,5 @@
 # web-package
-This my web-package boilerplate for HTML coding
+This is my web-package boilerplate for HTML coding
 
 ## Setup
 
