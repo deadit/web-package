@@ -1,2 +1,8 @@
 # web-package
-Web-package boilerplate for HTML coding
+This my web-package boilerplate for HTML coding
+
+## Setup
+
+```sh
+$ yarn install
+```
